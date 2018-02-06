@@ -7,5 +7,5 @@ My name is Ginger, and I'm a member of Girls Who Code
 I love to read, write, and dance!!!
 <h2/>
 <h3>
-Ella is super duper cool
+Ella is super duper cool!
 <h3/>
